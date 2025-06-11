@@ -1,5 +1,6 @@
 body{
-    font-family:"Roboto",sans-serif,"Raleway";
+    font-family:"Roboto",sans-serif,
+    "Raleway";
 
  color: #434455;
  background-color: #FFFFFF;
@@ -108,10 +109,11 @@ color: #404bbf;
 .page-team{
     background-color: #f4f4fd;
 }
-.team-list{
+.team-list .punkt{
     background-color: #FFFFFF;
 }
 .title-team{
+    text-transform: capitalize;
     font-weight: 700;
         font-size: 36px;
         line-height: 1.11;
